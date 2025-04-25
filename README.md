@@ -26,5 +26,6 @@ Built using **Nextflow DSL2** + **Conda**, the pipeline includes:
 
 ---
 
-## Repository Structure
+```bash
+nextflow run main.nf -profile standard
 
