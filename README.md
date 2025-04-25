@@ -1,4 +1,4 @@
-Neutrophil RNA-Seq Pipeline: GM-CSF & TNF-α Response
+# Neutrophil RNA-Seq Pipeline: GM-CSF & TNF-α Response
 
 This project analyzes transcriptomic responses of **human neutrophils** stimulated with **GM-CSF**, **TNF-α**, or left untreated, using a **Nextflow-based RNA-seq pipeline**.
 
